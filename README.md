@@ -1,2 +1,2 @@
 # my-awesome-project
-Exercise for learning Git &amp; GitHub
+This awesome project is created to experiment git notions like clone, push and pull.
